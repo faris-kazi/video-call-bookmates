@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333340038175",
+    "project_id": "bookmates-agora",
+    "storage_bucket": "bookmates-agora.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333340038175:android:76079bf7aed8351ebf712a",
+        "android_client_info": {
+          "package_name": "com.example.agora_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD3OXiay3NKcCU9pHX0Ihz1U-bldIFX9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
